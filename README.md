@@ -27,15 +27,3 @@ $ gcc -Wall -pedantic -Werror -Wextra X-main.c X-problem.c -o X-output
 ```
 Where X is the problem number for files that are relevant.
 
-## :blue_book: Authors
-* **Bennett Dixon** - [@BennettDixon](https://github.com/BennettDixon)
-
-## :mag: License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/BennettDixon/holbertonschool-lower_level_programming/blob/master/LICENSE.md) file for details
-
-
-
-## :mega: Acknowledgments
-
-* Holberton School (providing guidance)
